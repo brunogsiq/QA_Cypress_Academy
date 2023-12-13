@@ -1,1 +1,1 @@
-# QA_Cypress_Academy
+# QA_Learn_Cypress_Academy.
